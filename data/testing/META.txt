@@ -1,0 +1,1 @@
+data_test.csv (~5MB, 12674 lines) is a text-file (UTF-8) containing product features.  It has the same format to data_train.csv.

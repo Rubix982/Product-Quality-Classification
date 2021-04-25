@@ -1,0 +1,1 @@
+data_valid.csv (~5MB, 11838 lines) is a text-file (UTF-8) containing product features.  It has the same format to data_train.csv.
